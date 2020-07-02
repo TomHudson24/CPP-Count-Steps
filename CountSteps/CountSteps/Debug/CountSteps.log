@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Tom\source\repos\CountSteps\CountSteps\main.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+  CountSteps.vcxproj -> C:\Users\Tom\source\repos\CountSteps\Debug\CountSteps.exe
